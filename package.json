@@ -1,0 +1,19 @@
+{
+  "name": "lifesync-backend",
+  "version": "1.0.0",
+  "description": "Backend for lifesync",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanjonathan67/lifesync-backend-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanjonathan67/lifesync-backend-js/issues"
+  },
+  "homepage": "https://github.com/juanjonathan67/lifesync-backend-js#readme"
+}
