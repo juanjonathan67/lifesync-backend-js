@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/juanjonathan67/lifesync-backend-js/issues"
   },
-  "homepage": "https://github.com/juanjonathan67/lifesync-backend-js#readme"
+  "homepage": "https://github.com/juanjonathan67/lifesync-backend-js#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.1.1",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
