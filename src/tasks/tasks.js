@@ -42,6 +42,7 @@ router.get('/', authenticateToken, (req, res) => {
       }));
       res.json({
         error: false,
+        message: 'Tasks fetched successfully',
         tasks
       });
     }, (error) => {
